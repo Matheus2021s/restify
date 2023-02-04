@@ -1,0 +1,5 @@
+package br.com.mariah.restify.enums;
+
+public enum ElementType {
+    DTO_CREATE, DTO_UPDATE, DTO_RESPONSE, ENTITY, EMBEDDED_ENTITY, REPOSITORY, SERVICE, SEARCH_DTO, SPECIFICATION, CREATOR, CONTROLLER
+}
